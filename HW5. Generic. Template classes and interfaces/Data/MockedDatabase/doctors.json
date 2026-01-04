@@ -1,0 +1,26 @@
+[
+  {
+    "DoctorType": 1,
+    "Experience": 1,
+    "Salary": 100500.0,
+    "Name": "Fagotini P",
+    "Surname": "P",
+    "Phone": "3223",
+    "Email": "2332",
+    "Id": 1,
+    "CreatedAt": "2025-12-14T19:20:09.3629003+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 3,
+    "Experience": 4,
+    "Salary": 16000.0,
+    "Name": "Mr Miyagi",
+    "Surname": "AAA",
+    "Phone": "822822",
+    "Email": "mr@mail.net",
+    "Id": 2,
+    "CreatedAt": "2026-01-04T15:37:38.4955307+02:00",
+    "UpdatedAt": "2026-01-04T22:48:59.4189538+02:00"
+  }
+]
